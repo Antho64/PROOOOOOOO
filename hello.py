@@ -1,1 +1,2 @@
-hello  how
+print("Hello world")
+print("Hello world")
